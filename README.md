@@ -12,4 +12,4 @@ DQN也不知道从哪儿修改过来的...
 
 还算好使儿
 
-![Image text](https://raw.githubusercontent.com/hongmaju/light7Local/master/img/productShow/20170518152848.png)
+![Image text](https://github.com/kaixindelele/DQN-keras-visualization-with-gridworld/blob/master/QQ%E5%9B%BE%E7%89%8720200826211534.png)

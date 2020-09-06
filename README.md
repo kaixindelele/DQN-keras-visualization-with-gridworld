@@ -24,11 +24,19 @@ https://img-blog.csdnimg.cn/20200827160648395.png?x-oss-process=image/watermark,
 
 
 tensorflow-gpu            1.8.0 // 1.14.0 (两个版本都行)
+
 matplotlib
+
 pandas
+
 Keras                     2.2.4 // 2.4.3
+
 progressbar
+
 gym
+
 win32gui
+
 pillow
+
 还没详细的写requirements.txt，先凑活着参考吧

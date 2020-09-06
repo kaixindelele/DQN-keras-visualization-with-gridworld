@@ -18,7 +18,11 @@ https://img-blog.csdnimg.cn/20200827160648395.png?x-oss-process=image/watermark,
 ![Image text](https://img-blog.csdnimg.cn/20200827160648395.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2hlaGVkYWRhcQ==,size_16,color_FFFFFF,t_70#pic_center)
 
 
+
+
 # requirements
+
+
 tensorflow-gpu            1.8.0 // 1.14.0 (两个版本都行)
 matplotlib
 pandas

@@ -42,4 +42,6 @@ pillow
 还没详细的写requirements.txt，先凑活着参考吧
 
 
+# Run
+
 直接运行带有main的文件就好。
